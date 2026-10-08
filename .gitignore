@@ -1,0 +1,27 @@
+/.venv/
+/.idea
+/frontend/.env
+/.claude/
+/frontend/dist/
+/frontend/node_modules/
+/infra/node_modules/
+/infra/dist/
+/infra/cdk.out/
+/infra/package-lock.json
+/frontend/package-lock.json
+__pycache__/
+*.pyc
+.DS_Store
+.env
+/backend/tests/output/
+/venv/
+.env.backup
+/.pytest_cache/
+backend/.logfire/
+
+.env.local
+
+# Playwright
+frontend/test-results/
+frontend/playwright-report/
+frontend/tests/.auth/

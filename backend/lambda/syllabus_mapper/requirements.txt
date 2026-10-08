@@ -1,0 +1,6 @@
+boto3~=1.42.0
+pydantic~=2.10.0
+pydantic-ai-slim[bedrock]>=0.1.0
+tenacity~=8.0.0
+httpx>=0.25.0
+pypdf>=4.0.0
