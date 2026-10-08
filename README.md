@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/c3068e54-1602-4a7b-b611-b4a04e9dcc92
-
 # PA Accreditation Manager
 
 | Index                         | Description                                         |
